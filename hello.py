@@ -1,3 +1,5 @@
-#! /usr/local/bin/python3
 
-print('Hello, world!')
+Valor=raw_input("Ingrese su nombre:")
+
+print 'Hola',Valor
+raw_input()

@@ -1,5 +1,5 @@
 
-Valor=raw_input("Ingrese su nombre:")
+valor=raw_input("Ingrese su nombre: ")
 
-print 'Hola',Valor
+print 'Hola',valor
 raw_input()
